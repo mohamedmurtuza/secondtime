@@ -1,0 +1,93 @@
+19:59:27.018 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+19:59:27.088 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+19:59:33.548 [main] INFO  automationFramework.HomePage - opening browser
+20:01:47.893 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:01:48.002 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:01:49.551 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:03:28.041 [main] INFO  automationFramework.HomePage - opening browser
+20:06:22.790 [main] INFO  automationFramework.HomePage - opening browser
+20:10:27.897 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:10:27.965 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:10:33.068 [main] INFO  automationFramework.HomePage - opening browser
+20:12:49.356 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:12:49.427 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:12:50.470 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:16:20.036 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:16:20.112 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:16:25.494 [main] INFO  automationFramework.HomePage - opening browser
+20:18:42.212 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:18:42.302 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:18:43.342 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:20:49.871 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:20:49.947 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:20:55.245 [main] INFO  automationFramework.HomePage - opening browser
+20:21:24.732 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:21:24.801 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:21:26.531 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:25:11.110 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:25:17.565 [main] INFO  automationFramework.HomePage - opening browser
+20:25:41.272 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:25:41.345 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:25:42.837 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:27:09.783 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:27:09.856 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:27:15.645 [main] INFO  automationFramework.HomePage - opening browser
+20:27:25.934 [main] INFO  automationFramework.HomePage - Successfully validated
+20:27:34.960 [main] INFO  automationFramework.HomePage - Successfully Clicked
+20:27:55.801 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:27:55.910 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:27:57.256 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:29:37.932 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:29:38.007 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:29:44.405 [main] INFO  automationFramework.HomePage - opening browser
+20:29:54.994 [main] INFO  automationFramework.HomePage - Successfully validated
+20:30:02.872 [main] INFO  automationFramework.HomePage - Successfully Clicked
+20:30:24.702 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:30:24.794 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:30:27.367 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:31:55.384 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:31:55.488 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:32:02.127 [main] INFO  automationFramework.HomePage - opening browser
+20:32:10.633 [main] INFO  automationFramework.HomePage - Successfully validated
+20:32:18.353 [main] INFO  automationFramework.HomePage - Successfully Clicked
+20:32:41.263 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:32:41.374 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:32:43.688 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+20:54:20.847 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:54:20.918 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:54:26.803 [main] INFO  automationFramework.HomePage - opening browser
+20:58:14.206 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+20:58:14.282 [main] INFO  automationFramework.ValidateTitle - Successfully validated the course
+20:58:21.244 [main] INFO  automationFramework.HomePage - opening browser
+20:58:28.219 [main] INFO  automationFramework.HomePage - Successfully validated
+20:58:47.044 [main] INFO  automationFramework.HomePage - Successfully Clicked
+20:59:09.389 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+20:59:09.482 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+20:59:11.795 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+22:06:15.550 [main] INFO  automationFramework.HomePage - opening browser
+22:06:22.203 [main] INFO  automationFramework.HomePage - Successfully validated
+22:06:29.590 [main] INFO  automationFramework.HomePage - Successfully Clicked
+11:13:05.190 [main] INFO  automationFramework.HomePage - opening browser
+11:13:11.819 [main] INFO  automationFramework.HomePage - Successfully validated
+11:13:19.364 [main] INFO  automationFramework.HomePage - Successfully Clicked
+18:27:00.815 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+18:27:11.063 [main] INFO  automationFramework.HomePage - opening browser
+18:27:14.240 [main] INFO  automationFramework.HomePage - Successfully validated
+18:27:22.298 [main] INFO  automationFramework.HomePage - Successfully Clicked
+18:27:36.824 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+18:27:36.952 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+18:27:37.673 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+18:29:25.203 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+18:29:35.198 [main] INFO  automationFramework.HomePage - opening browser
+18:29:38.047 [main] INFO  automationFramework.HomePage - Successfully validated
+18:29:44.286 [main] INFO  automationFramework.HomePage - Successfully Clicked
+18:29:57.468 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+18:29:57.561 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+18:29:58.248 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
+18:31:23.392 [main] INFO  automationFramework.ValidateTitle - Successfully Navigated
+18:31:33.435 [main] INFO  automationFramework.HomePage - opening browser
+18:31:36.763 [main] INFO  automationFramework.HomePage - Successfully validated
+18:31:43.600 [main] INFO  automationFramework.HomePage - Successfully Clicked
+18:32:01.142 [main] INFO  automationFramework.NavigationBarVa - Successfully Navigated
+18:32:01.228 [main] INFO  automationFramework.NavigationBarVa - Successfully displyed
+18:32:01.875 [main] INFO  automationFramework.NavigationBarVa - Closed the browser
